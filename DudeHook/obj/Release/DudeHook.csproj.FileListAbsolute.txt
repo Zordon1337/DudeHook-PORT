@@ -1,0 +1,16 @@
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\DudeHook.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\DudeHook.pdb
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\AmplifyBloom.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\AmplifyMotion.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\AmplifyOcclusion.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\Assembly-CSharp.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\Mono.Security.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\UnityEngine.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\UnityEngine.Networking.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Release\UnityEngine.UI.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\obj\Release\DudeHook.csproj.AssemblyReference.cache
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\obj\Release\DudeHook.csproj.CoreCompileInputs.cache
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\obj\Release\DudeHook.csproj.CopyComplete
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\obj\Release\DudeHook.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\obj\Release\DudeHook.pdb

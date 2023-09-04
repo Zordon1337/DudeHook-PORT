@@ -1,0 +1,16 @@
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\obj\Debug\DudeHook.csproj.AssemblyReference.cache
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\obj\Debug\DudeHook.csproj.CoreCompileInputs.cache
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\DudeHook.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\DudeHook.pdb
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\AmplifyBloom.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\AmplifyMotion.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\AmplifyOcclusion.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\Assembly-CSharp.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\Mono.Security.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\UnityEngine.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\UnityEngine.Networking.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\bin\Debug\UnityEngine.UI.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\obj\Debug\DudeHook.csproj.CopyComplete
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\obj\Debug\DudeHook.dll
+C:\Users\ZRD\Source\Repos\DudeHook-PORT\DudeHook\obj\Debug\DudeHook.pdb
